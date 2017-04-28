@@ -1,9 +1,9 @@
 NAME="Nitrux"
-VERSION="Alpha 2"
+VERSION="Beta"
 ID=nxos
 ID_LIKE="ubuntu debian"
-PRETTY_NAME="Nitrux Alpha 2"
-VERSION_ID="0.2"
+PRETTY_NAME="Nitrux Beta"
+VERSION_ID="0.3"
 HOME_URL="https://nxos.org/"
 SUPPORT_URL="https://nxos.org/"
 BUG_REPORT_URL="https://github.com/Nitrux"

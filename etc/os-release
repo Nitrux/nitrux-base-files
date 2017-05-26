@@ -1,8 +1,8 @@
 NAME="Nitrux"
-VERSION="Beta"
+VERSION="RC"
 ID=nxos
 ID_LIKE="ubuntu debian"
-PRETTY_NAME="Nitrux Beta"
+PRETTY_NAME="Nitrux RC"
 VERSION_ID="0.3"
 HOME_URL="https://nxos.org/"
 SUPPORT_URL="https://nxos.org/"

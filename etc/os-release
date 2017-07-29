@@ -1,9 +1,9 @@
 NAME="Nitrux"
-VERSION="1.0.1"
+VERSION="1.0.2"
 ID=nxos
 ID_LIKE=ubuntu
-PRETTY_NAME="Nitrux 1.0.1"
-VERSION_ID="1.0.1"
+PRETTY_NAME="Nitrux 1.0.2"
+VERSION_ID="1.0.2"
 HOME_URL="https://nxos.org/"
 SUPPORT_URL="https://nxos.org/"
 BUG_REPORT_URL="https://github.com/Nitrux"

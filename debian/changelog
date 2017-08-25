@@ -1,3 +1,9 @@
+base-files (9.7nxos20170825) artful; urgency=high
+
+  * New Nitrux release.
+
+ -- Uri Herrera <uri_herrera@nitrux.in>  Fri, 25 Aug 2017 14:10:00 -0006
+ 
 base-files (9.7nxos20170526-1) artful; urgency=high
 
   * typo in os-release

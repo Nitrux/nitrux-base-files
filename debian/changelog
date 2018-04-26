@@ -1,3 +1,9 @@
+base-files (10.3.4-1+nxos) artful; urgency=high
+
+  * Update version.
+
+ -- Uri Herrera <uri_herrera@nitrux.in>  Wed, 25 Apr 2018 23:35:00 -0005
+
 base-files (10.3.2-1+nxos) artful; urgency=high
 
   * New Nitrux release.

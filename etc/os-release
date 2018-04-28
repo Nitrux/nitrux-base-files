@@ -1,9 +1,9 @@
 NAME="Nitrux"
-VERSION="1.0.10"
+VERSION="1.0.11"
 ID=nxos
 ID_LIKE=ubuntu
-PRETTY_NAME="Nitrux 1.0.10"
-VERSION_ID="1.0.10"
+PRETTY_NAME="Nitrux 1.0.11"
+VERSION_ID="1.0.11"
 HOME_URL="https://nxos.org/"
 SUPPORT_URL="https://nxos.org/"
 BUG_REPORT_URL="https://github.com/nomad-desktop"

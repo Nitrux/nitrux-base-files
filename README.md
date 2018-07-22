@@ -1,4 +1,4 @@
-# Nitrux Debian Base Files [![Build Status](https://travis-ci.org/nomad-desktop/nxos-base-files.svg?branch=master)](https://travis-ci.org/nomad-desktop/nxos-base-files)
+# Nitrux Debian Base Files [![Build Status](https://travis-ci.org/nomad-desktop/nxos-base-files.svg?branch=master)](https://travis-ci.org/Nitrux/nxos-base-files)
 
 Debian base system miscellaneous files.
 

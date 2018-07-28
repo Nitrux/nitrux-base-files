@@ -1,11 +1,11 @@
 NAME="Nitrux"
-VERSION="1.0.13"
+VERSION="1.0.14"
 ID=nxos
 ID_LIKE=ubuntu
-PRETTY_NAME="Nitrux 1.0.13"
-VERSION_ID="1.0.13"
+PRETTY_NAME="Nitrux 1.0.14"
+VERSION_ID="1.0.14"
 HOME_URL="https://nxos.org/"
 SUPPORT_URL="https://nxos.org/"
-BUG_REPORT_URL="https://github.com/nomad-desktop"
+BUG_REPORT_URL="https://github.com/Nitrux/nitrux-iso-bug-tracker"
 VERSION_CODENAME=nxos
 UBUNTU_CODENAME=nxos

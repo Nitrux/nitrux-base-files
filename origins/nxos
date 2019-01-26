@@ -1,4 +1,4 @@
-Vendor: nxos
+Vendor: Nitrux Latinoamericana S.C.
 Vendor-URL: http://nxos.org/
-Bugs: https://github.com/Nitrux
+Bugs: https://github.com/Nitrux/nitrux-bug-tracker
 Parent: Ubuntu

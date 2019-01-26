@@ -2,6 +2,12 @@ base-files (10.4.2+nitrux) bionic; urgency=high
 
   * New Nitrux release.
 
+ -- Uri Herrera <uri_herrera@nitrux.in>  Fri, 25 Jan 2019 20:37:00 -0005
+
+base-files (10.4.2+nitrux) bionic; urgency=high
+
+  * New Nitrux release.
+
  -- Uri Herrera <uri_herrera@nitrux.in>  Fri, 28 Dec 2018 19:09:00 -0005
 
 base-files (10.4.1+nitrux) bionic; urgency=high

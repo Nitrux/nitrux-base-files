@@ -2,7 +2,7 @@
 
 Debian base system miscellaneous files.
 
-![](https://i.imgur.com/H6UEtq9.png)
+![](https://i.imgur.com/QvQdtRA.png)
 
 # Issues
 If you find problems with the contents of this repository please create an issue.

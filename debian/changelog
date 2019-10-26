@@ -1,3 +1,9 @@
+base-files (10.5.3+nitrux) bionic; urgency=high
+
+  * New Nitrux release.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 26 Sep 2019 02:25:00 -0005
+
 base-files (10.5.2+nitrux) bionic; urgency=high
 
   * New Nitrux release.

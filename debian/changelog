@@ -1,4 +1,4 @@
-base-files (11.0.99+nitrux) bionic; urgency=high
+base-files-legacy (11.0.99+nitrux) bionic; urgency=high
 
   * Update package version.
 

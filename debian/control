@@ -5,7 +5,7 @@ Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 XSBC-Original-Maintainer: Santiago Vila <sanvila@debian.org>
 Standards-Version: 3.9.8
 
-Package: base-files-legacy
+Package: base-files
 Provides: base
 Architecture: any
 Pre-Depends: awk

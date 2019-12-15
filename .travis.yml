@@ -22,12 +22,7 @@ deploy:
   script: "./source/nomad-repository-util.sh upload nitrux-minimal *.deb"
   skip_cleanup: true
   on:
-    branch: master
-#- provider: script
-  #script: "./source/nomad-repository-util.sh upload nomad-desktop-dev *.deb"
-  #skip_cleanup: true
-  #on:
-    #branch: development
+    branch: legacy
 notifications:
   email: false
   slack:

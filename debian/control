@@ -1,4 +1,4 @@
-Source: base-files-legacy
+Source: base-files
 Section: admin
 Priority: required
 Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>

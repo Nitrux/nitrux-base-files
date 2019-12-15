@@ -16,6 +16,7 @@ branches:
   only:
   - master
   - development
+  - legacy
 deploy:
 - provider: script
   script: "./source/nomad-repository-util.sh upload nitrux-minimal *.deb"

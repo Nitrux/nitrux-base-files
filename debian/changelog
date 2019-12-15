@@ -1,8 +1,8 @@
-base-files-legacy (11.0.99+nitrux) bionic; urgency=high
+base-files (11.0.98+nitrux-legacy) bionic; urgency=high
 
   * Update package version.
 
- -- Uri Herrera <uri_herrera@nxos.org>  Sun, 15 Dec 2019 15:35:00 -0005
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 15 Dec 2019 17:18:00 -0005
 
 base-files (10.5.4+nitrux) bionic; urgency=high
 

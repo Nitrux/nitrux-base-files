@@ -1,11 +1,11 @@
 NAME="Nitrux"
-VERSION="1.2.3-Legacy"
+VERSION="1.2.4-Legacy"
 ID=nxos
 ID_LIKE=ubuntu
-PRETTY_NAME="Nitrux 1.2.3-Legacy"
-VERSION_ID="1.2.3-Legacy"
+PRETTY_NAME="Nitrux 1.2.4-Legacy"
+VERSION_ID="1.2.4-Legacy"
 HOME_URL="https://nxos.org/"
-SUPPORT_URL="https://nxos.org/en/compendium"
+SUPPORT_URL="https://nxos.org/"
 BUG_REPORT_URL="https://github.com/Nitrux/nitrux-bug-tracker"
 VERSION_CODENAME=nxos
 UBUNTU_CODENAME=bionic

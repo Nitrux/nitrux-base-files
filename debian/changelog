@@ -1,26 +1,32 @@
+base-files (11.0.98.5+nitrux-legacy) bionic; urgency=high
+
+  * Fix typo in build date.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 25 Feb 2020 01:11:00 -0005
+
 base-files (11.0.98.4+nitrux-legacy) bionic; urgency=high
 
   * Fix typo in build date.
 
- -- Uri Herrera <uri_herrera@nxos.org>  Thu, 30 jan 2020 18:00:00 -0005
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 30 Jan 2020 18:00:00 -0005
 
 base-files (11.0.98.3+nitrux-legacy) bionic; urgency=high
 
   * Update package version.
 
- -- Uri Herrera <uri_herrera@nxos.org>  Thu, 30 jan 2020 16:44:00 -0005
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 30 Jan 2020 16:44:00 -0005
 
 base-files (11.0.98.2+nitrux-legacy) bionic; urgency=high
 
   * Update package version.
 
- -- Uri Herrera <uri_herrera@nxos.org>  Thu, 30 jan 2020 05:58:00 -0005
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 30 Jan 2020 05:58:00 -0005
 
 base-files (11.0.98.1+nitrux-legacy) bionic; urgency=high
 
   * Update package version.
 
- -- Uri Herrera <uri_herrera@nxos.org>  Sat, 11 jan 2020 16:51:00 -0005
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 11 Jan 2020 16:51:00 -0005
 
 base-files (11.0.98+nitrux-legacy) bionic; urgency=high
 

@@ -1,3 +1,9 @@
+base-files (11.2.3+nitrux-legacy) bionic; urgency=high
+
+  * New Nitrux release.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 25 Feb 2021 00:22:00 -0005
+
 base-files (11.2.2+nitrux-legacy) bionic; urgency=high
 
   * Correct typo in version.

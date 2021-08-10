@@ -1,9 +1,9 @@
 NAME="Nitrux"
-VERSION="1.5.0 OTA-27.ZNX"
+VERSION="1.5.1 OTA-28.ZNX"
 ID=nitrux
 ID_LIKE=ubuntu
-PRETTY_NAME="Nitrux 1.5.0 OTA-27.ZNX"
-VERSION_ID="1.5.0 OTA-27.ZNX"
+PRETTY_NAME="Nitrux 1.5.1 OTA-28.ZNX"
+VERSION_ID="1.5.1 OTA-28.ZNX"
 HOME_URL="https://nxos.org/"
 SUPPORT_URL="https://nxos.org/"
 BUG_REPORT_URL="https://github.com/Nitrux/nitrux-bug-tracker"

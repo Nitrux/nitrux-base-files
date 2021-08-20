@@ -1,9 +1,9 @@
 NAME="Nitrux"
-VERSION="1.5.1 build.310721"
+VERSION="1.6.0 build.310821"
 ID=nitrux
 ID_LIKE=ubuntu
-PRETTY_NAME="Nitrux 1.5.1 build.310721"
-VERSION_ID="1.5.1 build.310721"
+PRETTY_NAME="Nitrux 1.6.0 build.310821"
+VERSION_ID="1.6.0 build.310821"
 HOME_URL="https://nxos.org/"
 SUPPORT_URL="https://nxos.org/"
 BUG_REPORT_URL="https://github.com/Nitrux/nitrux-bug-tracker"

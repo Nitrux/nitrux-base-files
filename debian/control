@@ -12,6 +12,7 @@ Pre-Depends: awk
 Essential: yes
 Priority: required
 Replaces: base, dpkg (<= 1.15.0), miscutils
+Depends: nitrux-minimal-legacy
 Breaks: initscripts (<< 2.88dsf-13.3), sendfile (<< 2.1b.20080616-5.2~)
 Multi-Arch: foreign
 Description: Debian base system miscellaneous files

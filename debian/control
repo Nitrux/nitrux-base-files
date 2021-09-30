@@ -12,8 +12,7 @@ Pre-Depends: awk
 Essential: yes
 Priority: required
 Replaces: base, dpkg (<= 1.15.0), miscutils
-Depends: nitrux-minimal-legacy
-Breaks: initscripts (<< 2.88dsf-13.3), sendfile (<< 2.1b.20080616-5.2~), base-files (= 12.1.5+nitrux), base-files (= 13.0.0+nitrux+arm64)
+Breaks: initscripts (<< 2.88dsf-13.3), sendfile (<< 2.1b.20080616-5.2~)
 Multi-Arch: foreign
 Description: Debian base system miscellaneous files
  This package contains the basic filesystem hierarchy of a Debian system, and

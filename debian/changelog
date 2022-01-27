@@ -1,6 +1,7 @@
 base-files (13.0.3+nitrux) focal; urgency=high
 
   * New Nitrux release name to differentiate from legacy branches.
+  * Format is [Nitrux r_months_and_days_since_1st_release OTA-month_year_of_current_release]
 
  -- Uri Herrera <uri_herrera@nxos.org>  Thu, 27 Jan 2022 05:57:00 -0005
 

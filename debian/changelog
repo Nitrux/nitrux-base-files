@@ -1,3 +1,9 @@
+base-files (13.0.6+nitrux) focal; urgency=high
+
+  * Update motd, origins.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 09 Mar 2022 12:24:00 -0005
+
 base-files (13.0.5+nitrux) focal; urgency=high
 
   * New Nitrux release.

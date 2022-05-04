@@ -1,9 +1,9 @@
 NAME="Nitrux"
-VERSION="r5711 OTA-APR22"
+VERSION="r5802 OTA-MAY22"
 ID=nitrux
 ID_LIKE=ubuntu
-PRETTY_NAME="Nitrux r5711 OTA-APR22"
-VERSION_ID="r5711 OTA-APR22"
+PRETTY_NAME="Nitrux r5802 OTA-MAY22"
+VERSION_ID="r5802 OTA-MAY22"
 HOME_URL="https://nxos.org/"
 SUPPORT_URL="https://nxos.org/"
 BUG_REPORT_URL="https://github.com/Nitrux/nitrux-bug-tracker"

@@ -1,3 +1,9 @@
+base-files (13.1.15+nitrux-legacy) focal; urgency=high
+
+  * New Nitrux release.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 30 Jun 2022 15:51:00 -0500
+
 base-files (13.1.14+nitrux-legacy) focal; urgency=high
 
   * New Nitrux release.

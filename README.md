@@ -1,4 +1,4 @@
-# Nitrux Debian Base Files [![Build Status](https://travis-ci.org/Nitrux/nitrux-base-files.svg?branch=master)](https://travis-ci.org/Nitrux/nitrux-base-files)
+# Nitrux Debian Base Files
 
 Debian base system miscellaneous files.
 

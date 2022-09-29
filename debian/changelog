@@ -1,3 +1,9 @@
+base-files (13.1.19+nitrux-legacy) unstable; urgency=high
+
+  * New Nitrux release.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Tue, 29 Sep 2022 00:21:00 -0500
+
 base-files (13.1.18+nitrux-legacy) unstable; urgency=high
 
   * Fix typo.

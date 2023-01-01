@@ -1,11 +1,11 @@
 NAME="Nitrux"
-VERSION="2.5.1 build.011222"
+VERSION="2.6.0 build.010123.ff"
 ID=nitrux
 ID_LIKE=ubuntu
-PRETTY_NAME="Nitrux 2.5.1 build.011222"
-VERSION_ID="2.5.1 build.011222"
+PRETTY_NAME="Nitrux 2.6.0 build.010123.ff"
+VERSION_ID="2.6.0 build.010123.ff"
 HOME_URL="https://nxos.org/"
 SUPPORT_URL="https://nxos.org/"
 BUG_REPORT_URL="https://github.com/Nitrux/nitrux-bug-tracker"
 VERSION_CODENAME=nitrux
-UBUNTU_CODENAME=focal
+UBUNTU_CODENAME=jammy

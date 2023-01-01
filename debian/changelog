@@ -1,3 +1,9 @@
+base-files (13.1.23+nitrux-legacy) unstable; urgency=high
+
+  * New Nitrux release.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 01 Jan 2023 03:19:00 -0500
+
 base-files (13.1.22+nitrux-legacy) unstable; urgency=high
 
   * Update motd/help-text.

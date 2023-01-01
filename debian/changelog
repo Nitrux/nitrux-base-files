@@ -1,8 +1,8 @@
-base-files (13.0.14+nitrux) focal; urgency=high
+base-files (13.0.14+nitrux) jammy; urgency=high
 
-  * New Nitrux release.
+  * Update.
 
- -- Uri Herrera <uri_herrera@nxos.org>  Thu, 29 Sep 2022 05:01:00 -0500
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 01 Jan 2023 03:16:00 -0500
 
 base-files (13.0.13+nitrux) focal; urgency=high
 

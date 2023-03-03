@@ -1,9 +1,9 @@
 NAME="Nitrux"
-VERSION="2.6.0 build.160123.ff"
+VERSION="2.7.0 build.030323.sh"
 ID=nitrux
 ID_LIKE=linux
-PRETTY_NAME="Nitrux 2.6.0 build.160123.ff"
-VERSION_ID="2.6.0 build.160123.ff"
+PRETTY_NAME="Nitrux 2.7.0 build.030323.sh"
+VERSION_ID="2.7.0 build.030323.sh"
 HOME_URL="https://nxos.org/"
 SUPPORT_URL="https://nxos.org/"
 BUG_REPORT_URL="https://github.com/Nitrux/nitrux-bug-tracker"

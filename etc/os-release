@@ -1,8 +1,8 @@
 NAME="Nitrux"
-VERSION="2.8.0 build.300423.sh"
+VERSION="2.8.0 build.300423.tf"
 ID=nitrux
 ID_LIKE=linux
-PRETTY_NAME="Nitrux 2.8.0 build.300423.sh"
+PRETTY_NAME="Nitrux 2.8.0 build.300423.tf"
 VERSION_ID="2.8.0 build.300423.sh"
 HOME_URL="https://nxos.org/"
 SUPPORT_URL="https://nxos.org/"

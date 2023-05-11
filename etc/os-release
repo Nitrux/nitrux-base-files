@@ -1,9 +1,9 @@
+PRETTY_NAME="Nitrux 2.8.1 build.310523.sc"
 NAME="Nitrux"
-VERSION="2.8.0 build.300423.tf"
+VERSION_ID="2.8.1"
+VERSION="2.8.1 build.310523.sc"
 ID=nitrux
 ID_LIKE=linux
-PRETTY_NAME="Nitrux 2.8.0 build.300423.tf"
-VERSION_ID="2.8.0 build.300423.tf"
 HOME_URL="https://nxos.org/"
 SUPPORT_URL="https://nxos.org/"
 BUG_REPORT_URL="https://github.com/Nitrux/nitrux-bug-tracker"

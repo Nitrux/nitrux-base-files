@@ -11,8 +11,9 @@
                           +%%#+:   
 
 ********************************************************
-*                                                      *
 * This system is for the use of authorized users only. *
+*                                                      *
+* Today is \d and the time is t\                       *                    
 ********************************************************
 
-Nitrux
+Nitrux \v \m \n \l

@@ -1,3 +1,9 @@
+base-files (13.1.32+nitrux-legacy) unstable; urgency=high
+
+  * Update issue and issue.net.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 18 May 2023 12:33:00 -0500
+
 base-files (13.1.31+nitrux-legacy) unstable; urgency=high
 
   * Update issue and issue.net.

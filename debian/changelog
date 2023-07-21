@@ -1,3 +1,9 @@
+base-files (2023.7.21+nitrux-legacy) unstable; urgency=high
+
+  * Change version number of this package.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 21 Jul 2023 04:51:00 -0500
+ 
 base-files (13.1.35+nitrux-legacy) unstable; urgency=high
 
   * New Nitrux release.

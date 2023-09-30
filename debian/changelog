@@ -1,3 +1,9 @@
+base-files (2023.9.30+nitrux-legacy) unstable; urgency=high
+
+  * New Nitrux release.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 30 Sep 2023 15:09:00 -0500
+
 base-files (2023.8.27+nitrux-legacy) unstable; urgency=high
 
   * New Nitrux release.

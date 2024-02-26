@@ -1,3 +1,9 @@
+base-files (2024.02.26+nitrux-legacy) unstable; urgency=high
+
+  * Fix debian_version.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 26 Feb 2024 17:18:00 -0500
+
 base-files (2024.01.31-2+nitrux-legacy) unstable; urgency=high
 
   * Fix debian_version.

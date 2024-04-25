@@ -1,3 +1,9 @@
+base-files (2024.04.30+nitrux-legacy) unstable; urgency=high
+
+  * New Nitrux release.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 24 Apr 2024 03:07:00 -0500
+
 base-files (2024.03.31+nitrux-legacy) unstable; urgency=high
 
   * New Nitrux release.

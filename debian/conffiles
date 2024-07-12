@@ -1,9 +1,0 @@
-/etc/debian_version
-/etc/dpkg/origins/debian
-/etc/dpkg/origins/nitrux
-/etc/host.conf
-/etc/issue
-/etc/issue.net
-/etc/legal
-/etc/lsb-release
-/etc/update-motd.d/00-header

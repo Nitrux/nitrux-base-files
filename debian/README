@@ -4,10 +4,10 @@ Frequently Asked Questions about base-files
 * Questions about /etc/issue and /etc/debian_version:
 
 Q. I upgraded my system to the testing distribution and now my /etc/issue
-says "stretch/sid". Should it not read "stretch" or "testing"?
+says "trixie/sid". Should it not read "trixie" or "testing"?
 
 Q. I upgraded my system to the unstable distribution and now my /etc/issue
-says "stretch/sid". Should it not read "sid" or "unstable"?
+says "trixie/sid". Should it not read "sid" or "unstable"?
 
 A. That would be nice, but it is not possible because of the way the
 testing distribution works. Packages uploaded for unstable reach
@@ -17,9 +17,9 @@ testing. You should consider the testing and unstable distributions as
 two sides of the same coin. Since the base-files package in testing
 was initially uploaded for unstable, the only sensible /etc/issue to
 have is one that is both valid for testing and unstable, hence
-"stretch/sid" (or whatever is appropriate).
+"trixie/sid" (or whatever is appropriate).
 
-Q. Why "stretch/sid" and not "testing/unstable" as it used to be?
+Q. Why "trixie/sid" and not "testing/unstable" as it used to be?
 
 A. The codename is a little bit more informative, as the meaning of
 "testing" changes over time.
@@ -31,7 +31,7 @@ not a reliable way to know that anymore. Looking at the contents of
 your /etc/apt/sources.list file is probably a much better way.
 
 Q. There is a new point release and I've just upgraded my system.
-The /etc/debian_version file now says 8.x but /etc/issue still says 8.
+The /etc/debian_version file now says 10.x but /etc/issue still says 10.
 Is this ok?
 
 A. Yes. The release managers asked me not to touch /etc/issue, as that's
@@ -56,7 +56,6 @@ In either case, if you want to "upgrade" those files, just look at the
 postinst for base-files (i.e. /var/lib/dpkg/info/base-files.postinst)
 and you will see how they are created and where their master copies are:
 
-  install_from_default /usr/share/base-files/nsswitch.conf /etc/nsswitch.conf
   install_from_default /usr/share/base-files/dot.profile   /root/.profile
   install_from_default /usr/share/base-files/dot.bashrc    /root/.bashrc
   install_from_default /usr/share/base-files/profile       /etc/profile
@@ -68,7 +67,7 @@ installed squeeze system, you might want to sync these files manually.
 Note 1: Since base-files version 6.10, /etc/profile is automatically
 upgraded if it has not been modified from a previous default.
 
-Note 2: The file /etc/nsswitch.conf is going to be moved to libc-bin.
+Note 2: The file /etc/nsswitch.conf has been moved to libc-bin.
 
 
 Q. Why isn't license "foo" included in common-licenses?
@@ -96,5 +95,12 @@ freedom to remove those directories without them being created again
 when base-files is upgraded. Therefore, if you are running any sort of
 compliance tests, you should do it on newly installed systems only.
 
+Q. My system (when I do "dpkg -s base-files") shows /etc/profile as
+an "obsolete conffile". Is this ok?
+
+A. Yes. The file was handled by base-files as a conffile in the dpkg sense
+in the past, so dpkg may consider the file as an obsolete conffile.
+There is currently not a way to tell dpkg to unregister it as a conffile
+without removing it, so the best approach for now is to do nothing about it.
 
 Santiago Vila <sanvila@debian.org>

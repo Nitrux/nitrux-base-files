@@ -1,3 +1,9 @@
+base-files (2024.07.13+nitrux-legacy) nitrux; urgency=high
+
+  * Add /etc/lsb-release back.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 13 Jul 2024 01:37:00 -0500
+
 base-files (2024.07.11+nitrux-legacy) nitrux; urgency=high
 
   * Rebase on new Debian base-files.

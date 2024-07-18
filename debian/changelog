@@ -1,3 +1,9 @@
+base-files (2024.07.18+nitrux-legacy) nitrux; urgency=high
+
+  * Update versions.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 18 Jul 2024 16:08:00 -0500
+
 base-files (2024.07.13+nitrux-legacy) nitrux; urgency=high
 
   * Add /etc/lsb-release back.

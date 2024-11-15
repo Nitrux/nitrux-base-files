@@ -1,7 +1,7 @@
-PRETTY_NAME="Nitrux 3.7.1 build.311024.sp"
+PRETTY_NAME="Nitrux 3.8.0 build.301124.xx"
 NAME="Nitrux"
-VERSION_ID="3.7.1 build.311024.sp"
-VERSION="3.7.1 build.311024.sp"
+VERSION_ID="3.8.0 build.301124.xx"
+VERSION="3.8.0 build.301124.xx"
 ID=nitrux
 ID_LIKE=linux
 HOME_URL="https://nxos.org/"

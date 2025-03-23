@@ -1,20 +1,26 @@
+base-files (2025.03.23+nitrux-legacy) nitrux; urgency=high
+
+  * Update versions.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 23 Mar 2025 00:44:00 -0500
+
 base-files (2025.02.27+nitrux-legacy) nitrux; urgency=high
 
   * Update versions.
 
- -- Uri Herrera <uri_herrera@nxos.org>  Thu, 27 Feb 2024 13:07:00 -0500
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 27 Feb 2025 13:07:00 -0500
 
 base-files (2025.02.15+nitrux-legacy) nitrux; urgency=high
 
   * Update versions.
 
- -- Uri Herrera <uri_herrera@nxos.org>  Sat, 15 Feb 2024 12:13:00 -0500
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 15 Feb 2025 12:13:00 -0500
 
 base-files (2025.02.01+nitrux-legacy) nitrux; urgency=high
 
   * New Nitrux release.
 
- -- Uri Herrera <uri_herrera@nxos.org>  Sat, 01 Feb 2024 01:27:00 -0500
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 01 Feb 2025 01:27:00 -0500
 
 base-files (2024.12.17+nitrux-legacy) nitrux; urgency=high
 

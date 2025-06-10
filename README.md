@@ -1,4 +1,4 @@
-# Nitrux Debian Base Files [![Build and push packages to PackageCloud.](https://github.com/Nitrux/nitrux-base-files/actions/workflows/build.yml/badge.svg)](https://github.com/Nitrux/nitrux-base-files/actions/workflows/build.yml)
+# Nitrux Debian Base Files
 
 Debian base system miscellaneous files.
 

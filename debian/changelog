@@ -1,8 +1,8 @@
-base-files (2025.06.10+nitrux-legacy) nitrux; urgency=high
+base-files (2025.06.10+nitrux) nitrux; urgency=high
 
   * Update versions.
 
- -- Uri Herrera <uri_herrera@nxos.org>  Tue, 10 Jun 2025 01:03:00 -0500
+ -- Uri Herrera <uri_herrera@nxos.org>  Tue, 10 Jun 2025 14:34:00 -0500
 
 base-files (2025.03.23+nitrux-legacy) nitrux; urgency=high
 

@@ -8,7 +8,7 @@ Rules-Requires-Root: binary-targets
 
 Package: base-files
 Provides: base, usr-is-merged
-Architecture: any
+Architecture: all
 Pre-Depends: awk
 Depends: ${misc:Depends}
 Essential: yes

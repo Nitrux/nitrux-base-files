@@ -19,8 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install necessary packages
-        run: apt -q update && apt -yy install devscripts equivs lintian ruby-full sudo
+      - name: Install necessary packages ruby-full sudo
 
       - name: Install PackageCloud
         run: gem install package_cloud

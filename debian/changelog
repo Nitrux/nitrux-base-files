@@ -1,3 +1,9 @@
+base-files (2026.01.13+nitrux) nitrux; urgency=high
+
+  * Update etc/debian_version.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 13 Jan 2026 14:53:00 -0500
+
 base-files (2026.01.05+nitrux) nitrux; urgency=high
 
   * Update versions.

@@ -1,3 +1,9 @@
+base-files (2026.02.07+nitrux) nitrux; urgency=high
+
+  * Use simpler version structure
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 07 Feb 2026 08:14:00 -0500
+
 base-files (2026.01.13+nitrux) nitrux; urgency=high
 
   * Update etc/debian_version.

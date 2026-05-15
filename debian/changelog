@@ -1,3 +1,9 @@
+base-files (2026.05.15+nitrux) nitrux; urgency=high
+
+  * Update versions.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 15 May 2026 04:03:00 -0500
+
 base-files (2026.02.10+nitrux) nitrux; urgency=high
 
   * Fix wrong version numbers.
